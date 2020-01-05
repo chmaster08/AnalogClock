@@ -1,0 +1,15 @@
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\bin\Debug\AnalogCloc.exe.config
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\bin\Debug\AnalogCloc.exe
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\bin\Debug\AnalogCloc.pdb
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\AnalogCloc.csprojAssemblyReference.cache
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\MainWindow.g.cs
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\App.g.cs
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\AnalogCloc_MarkupCompile.cache
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\AnalogCloc_MarkupCompile.lref
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\MainWindow.baml
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\AnalogCloc.g.resources
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\AnalogCloc.Properties.Resources.resources
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\AnalogCloc.csproj.GenerateResource.cache
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\AnalogCloc.csproj.CoreCompileInputs.cache
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\AnalogCloc.exe
+C:\Users\chmaster\Documents\workplace\AnalogClock\AnalogCloc\obj\Debug\AnalogCloc.pdb
